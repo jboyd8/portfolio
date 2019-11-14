@@ -6,7 +6,7 @@
     justify-content: space-around;
     align-items: center;
     background-color: #A0A0A0;
-    height: 20%;
+    height: 15%;
     width: 100%;
 }
 
@@ -20,4 +20,9 @@
     padding: 1em;
     list-style-type: none;
     font-size: 1.5em;
+}
+
+.nav-links{
+    text-decoration: none;
+    color: black;
 }
