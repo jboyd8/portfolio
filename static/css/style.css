@@ -58,3 +58,10 @@ body{
     height: 100%;
     padding: 2em;
 }
+
+
+/* Footer */
+.btt-btn {
+    text-decoration: none;
+    color: black;
+}
