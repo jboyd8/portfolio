@@ -61,6 +61,15 @@ body{
 
 
 /* Footer */
+footer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.footer-button {
+    border-radius: 10%;
+}
+
 .btt-btn {
     text-decoration: none;
     color: black;
