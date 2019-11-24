@@ -72,6 +72,18 @@ body{
     text-align: center;
 }
 
+.contact-title {
+    padding-bottom: 3em;
+}
+
+.contact-form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 2em;
+}
+
 
 /* Footer */
 footer {
