@@ -51,6 +51,7 @@ body{
 /* Sections */
 .about-page,
 .skills-page,
+.projects-page,
 .contact-page{
     display: flex;
     flex-direction: column;
@@ -86,20 +87,16 @@ body{
 
 
 /* Footer */
-footer {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    height: 10%;
-    background-color: red;
-}
+
 
 .footer-button {
+    align-self: flex-end;
     border-radius: 5%;
     background-color: gray;
 }
 
 .btt-btn {
+    align-self: flex-end;
     text-decoration: none;
     color: black;
 }
